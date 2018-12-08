@@ -1,5 +1,0 @@
-It: 199 times
-walk: 106 times
-I: 104 times 
-Like: 88 times
-Talk: 84 times
